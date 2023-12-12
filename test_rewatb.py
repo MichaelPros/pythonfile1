@@ -55,4 +55,3 @@ def copy_line_file(file_name, new_file):
             f.writelines('\n'+ copy_line)
         print(f'Вы скопировали строку {stroka}!')
 
-
